@@ -1,0 +1,3 @@
+# cloudconfig_projectapi
+properties for  cloudconfig_server
+Proof of Concept -- storing configurations on git... 
